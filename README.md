@@ -169,8 +169,7 @@ All challenge solutions include corresponding verification scripts:
 This project is part of an educational IoT challenge assignment.
 
 ## 👤 Author
-
-Network Analysis and IoT Protocol Challenge Solutions
+Golsa Shokri and Anasuya Satapathy
 
 ---
 
